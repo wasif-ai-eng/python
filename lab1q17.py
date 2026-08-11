@@ -1,0 +1,6 @@
+a=int(input("1st value: "))
+b=int(input("2nd value: "))
+c=int(input("3rd value: "))
+d=int(input("4th value: "))
+e=int(input("5th value: "))
+print("AVERAGE:", (a+b+c+d+e)/5)

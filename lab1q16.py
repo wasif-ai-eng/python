@@ -1,0 +1,6 @@
+print("Enter three values one by one:")
+a=int(input())
+b=int(input())
+c=int(input())
+print("SI:", (a*b*c)/100)
+print("CI:", a*(1+(b/100))**c)
