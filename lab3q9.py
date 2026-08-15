@@ -1,0 +1,5 @@
+t = (1, 2, 3, 4, 2, 5, 2, 6, 3)
+print("Tuple:", t)
+element = int(input("Enter element to count: "))
+count = t.count(element)
+print("Occurrences of", element, ":", count)
